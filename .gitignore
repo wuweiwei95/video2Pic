@@ -1,4 +1,7 @@
 *.mp4
 *.jpg
 *.jar
+.idea
+*.iml
+out
 target
